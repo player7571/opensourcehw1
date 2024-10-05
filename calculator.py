@@ -14,6 +14,8 @@ else:
     div_result = "정의되지 않음"
 
 # 결과 출력
+#다른내용 추가
+print(f"두 수의 나머지: {num2%num1}")
 print(f"두 수의 합: {sum_result}")
 print(f"두 수의 차: {diff_result}")
 #다른내용 추가
